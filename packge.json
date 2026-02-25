@@ -1,0 +1,13 @@
+{
+  "name": "rachas-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.45"
+  }
+}
