@@ -1,13 +1,14 @@
 {
-  "name": "rachas-bot",
+  "name": "destiny-rachas",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "discord.js": "^14.15.3",
-    "dotenv": "^17.2.3",
-    "express": "^5.2.1",
-    "moment": "^2.30.1",
-    "moment-timezone": "^0.5.45"
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "moment": "^2.30.1"
   }
 }
